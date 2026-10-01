@@ -1,0 +1,24 @@
+# Unreal-generated files (project root only)
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# IDE-generated files; keep .vsconfig for development prerequisites
+/.vs/
+/.idea/
+/.vscode/
+*.sln
+*.slnx
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+
+# Local packaged builds
+/PackagedBuilds/
+
+# Keep Config, Content (including external actors), Source, and Build.
+# Review plugin binaries individually: binary-only plugins may require them.

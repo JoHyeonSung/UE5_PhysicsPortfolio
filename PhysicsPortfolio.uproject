@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2B1F151B-4379-D1FD-1956-42AF22A045DC}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PhysicsPortfolio",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
